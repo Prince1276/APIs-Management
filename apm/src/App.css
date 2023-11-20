@@ -1,0 +1,46 @@
+/* Your CSS styles go here */
+
+.color-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.color-table th,
+.color-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+.color-table th {
+  background-color: #f0f0f0;
+}
+
+.is-dark {
+  color: white;
+}
+
+.loading {
+  text-align: center;
+  margin-top: 20px;
+  font-style: italic;
+}
+
+.fonts-list {
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.fonts-list h2 {
+  margin-bottom: 10px;
+}
+
+.fonts-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.fonts-list li {
+  margin-bottom: 5px;
+}
